@@ -1,7 +1,6 @@
 # E-Commerce Application - Milestone 1
 ## Welcome to the Follow Along Project: Milestone 1! 
 
-In this mentor-led session, you will take the first steps toward building a full-fledged E-Commerce Application using the powerful MERN stack (MongoDB, Express.js, React.js, and Node.js). This project is designed to provide hands-on experience with real-world development concepts, tools, and workflows that developers encounter in professional environments.
 
 ## Project Description
 The E-Commerce Application is a feature-rich, full-stack web application that enables users to:
